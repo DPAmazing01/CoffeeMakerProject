@@ -1,5 +1,4 @@
-(Project was done in a team of 5 and this was a continuation of a previous CoffeeMaker version done with a previous team of 3, where I worked
-mainly on the frontend stuff with a little bit on the backend as well)
+(Project was from August-December 2023 and was done in a team of 5, and this was a continuation of a previous CoffeeMaker version done with a previous team of 3, where I worked mainly on the frontend stuff with a little bit on the backend as well)
 
 # csc326-OBP-204-3
 
